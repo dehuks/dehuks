@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/hukosteve" target="blank"><img src="https://img.shields.io/twitter/follow/hukosteve?logo=twitter&style=for-the-badge" alt="hukosteve" /></a> </p>
 
-- 🌱 I’m currently learning **Java, React, and c#.**
+- 🌱 I’m currently learning **Java, React, Scala, and c#.**
 
 - 📫 How to reach me **stevehuko@gmail.com**
 
