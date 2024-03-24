@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Java, React, Scala, and c#.**
 
 - 📫 How to reach me **stevehuko@gmail.com**
-- Act smart 
+- Act smart
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
